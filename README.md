@@ -13,5 +13,4 @@ Based on the TMDB API.
 
 ## Technologies
 - Java
-- Android Studio
 - TMDB API
